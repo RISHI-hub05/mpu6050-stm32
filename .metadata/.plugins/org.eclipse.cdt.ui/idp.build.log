@@ -1,0 +1,10 @@
+20:33:37 **** Build of configuration Debug for project idp ****
+make -j12 all 
+arm-none-eabi-size  idp.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20316	     12	   1900	  22228	   56d4	idp.elf
+Finished building: default.size.stdout
+ 
+
+20:33:37 Build Finished. 0 errors, 0 warnings. (took 71ms)
+
